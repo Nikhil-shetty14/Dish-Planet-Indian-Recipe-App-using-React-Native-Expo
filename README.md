@@ -10,13 +10,13 @@ The app focuses on simplicity, speed, and providing a structured cooking experie
 
 * **Beautiful Home Screen** showcasing top Indian dishes
 * **Search Functionality** to find recipes instantly
-✔ **Category Browsing** (Veg, Non-Veg, Breakfast, Snacks, Desserts, etc.)
-✔ **Detailed Recipe View** with ingredients, instructions, and meal images
-✔ **API Integration** using Meal API for live recipe data
-✔ **Favorites System** using AsyncStorage
-✔ **Smooth Navigation** powered by React Navigation (Native Stack)
-✔ **Clean and modern UI/UX** with reusable components
-✔ **Optimized codebase** with modular folder structure
+* **Category Browsing** (Veg, Non-Veg, Breakfast, Snacks, Desserts, etc.)
+* **Detailed Recipe View** with ingredients, instructions, and meal images
+* **API Integration** using Meal API for live recipe data
+* **Favorites System** using AsyncStorage
+* **Smooth Navigation** powered by React Navigation (Native Stack)
+* **Clean and modern UI/UX** with reusable components
+* **Optimized codebase** with modular folder structure
 
 ---
 

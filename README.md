@@ -8,8 +8,8 @@ The app focuses on simplicity, speed, and providing a structured cooking experie
 
 ## ✨ **Features**
 
-✔ **Beautiful Home Screen** showcasing top Indian dishes
-✔ **Search Functionality** to find recipes instantly
+* **Beautiful Home Screen** showcasing top Indian dishes
+* **Search Functionality** to find recipes instantly
 ✔ **Category Browsing** (Veg, Non-Veg, Breakfast, Snacks, Desserts, etc.)
 ✔ **Detailed Recipe View** with ingredients, instructions, and meal images
 ✔ **API Integration** using Meal API for live recipe data
@@ -100,12 +100,4 @@ Feel free to submit a PR or open an issue.
 
 This project is licensed under the MIT License.
 
----
 
-If you want, I can also create:
-✔ A full **README with images**
-✔ A **GitHub project banner**
-✔ A **logo description**
-✔ A **short description for GitHub top section**
-
-Just tell me!
